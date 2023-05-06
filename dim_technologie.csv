@@ -1,0 +1,26 @@
+TechnologieID,TypeEnergieRenouvelable,SousType,Fabricant,Efficacite
+1,Solaire,Photovoltaïque,SunPower,0.22
+2,Éolien,Terrestre,Vestas,0.35
+3,Éolien,Offshore,Siemens,0.4
+4,Hydroélectrique,Barrage,Alstom,0.9
+5,Hydroélectrique,"Centrale au fil de leau","GE Renewable Energy",0.85
+6,Géothermie,"Haute température","Ormat Technologies",0.15
+7,Géothermie,"Basse température","Enel Green Power",0.1
+8,Biomasse,"Combustion directe","Babcock & Wilcox",0.25
+9,Biomasse,Gazéification,Nexterra,0.3
+10,Biogaz,Méthanisation,Xergi,0.6
+11,Biogaz,Pyrogazéification,Cambi,0.5
+12,Solaire,Thermodynamique,SolarReserve,0.23
+13,Marémotrice,"Barrage marémoteur","Voith Hydro",0.75
+14,Marémotrice,Hydrolienne,Sabella,0.55
+15,Marémotrice,"Oscillateur à colonne deau","CorPower Ocean",0.45
+16,Éolien,Terrestre,"General Electric",0.34
+17,Éolien,Offshore,"MHI Vestas Offshore Wind",0.42
+18,Hydroélectrique,Barrage,"Voith Hydro",0.91
+19,Hydroélectrique,"Centrale au fil de leau","Andritz Hydro",0.84
+20,Géothermie,"Haute température",Turboden,0.17
+21,Géothermie,"Basse température","Reykjavik Geothermal",0.11
+22,Biomasse,"Combustion directe",Valmet,0.28
+23,Biomasse,Gazéification,Outotec,0.32
+24,Biogaz,Méthanisation,"PlanET Biogastechnik",0.63
+25,Biogaz,Pyrogazéification,"Bioelektra Group",0.51
